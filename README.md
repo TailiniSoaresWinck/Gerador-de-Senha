@@ -10,7 +10,7 @@ Este projeto tem como objetivo que o usuário possa gerar senhas conforme suas n
 
 Sendo possivel gerar novas senhas e copiar as senhas geradas.
 
-## Detalhes da aplicação
+## 📊👨‍💻 Detalhes da aplicação 
 
  - *generatePassword*: Esta função gera a senha aleatória com base nas opções de caracteres selecionados (minúsculos, maiúsculos, números, símbolos) e ajusta a exibição da senha no campo de input.
 
@@ -24,9 +24,9 @@ Sendo possivel gerar novas senhas e copiar as senhas geradas.
 
  ## Demonstração do projeto
 
-- **Desktop**
+- 💻 **Desktop**
 
 <img src="/src/img/desktop.gif">
 
-- **Mobile**
+- 📱 **Mobile**
 <img src="/src/img/mobile.gif">

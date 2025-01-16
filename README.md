@@ -26,6 +26,7 @@ Sendo possivel gerar novas senhas e copiar as senhas geradas.
 
 - **Desktop**
 
+<img src="/src/img/desktop.gif">
 
 - **Mobile**
-
+<img src="/src/img/mobile.gif">
